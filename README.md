@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diflorens
 - 👀 I’m interested in Software Engeneering 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me https://www.linkedin.com/in/dianabekibaeva/
 
