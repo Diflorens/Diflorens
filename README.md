@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Diflorens
+- 👋 Hi, I’m Diana
 - 👀 I’m interested in Software Engeneering 
 - 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on LinkedIn
