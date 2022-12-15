@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Diana
-- 👀 I’m interested in Software Engeneering 
-- 🌱 I’m currently learning Front-End Development
+- 👀 I’m a Software Engeneer 
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me https://www.linkedin.com/in/dianabekibaeva/
 
