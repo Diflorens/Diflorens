@@ -1,4 +1,4 @@
-![1*ZdK7PBZTtpu_7zPAiXEKzg](https://user-images.githubusercontent.com/106848567/211708310-9ee75774-28a6-4802-9fde-242a802bd0a4.jpeg)
+![Software-Deployment-scaled](https://user-images.githubusercontent.com/106848567/211715198-d289db01-d404-40a1-b3f1-a0d41cf6057b.jpeg)
 <h1 align="center">Hi, 😎 I'm Diana Bekibaeva</h1>
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 
