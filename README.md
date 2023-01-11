@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Diana
-- 👀 I’m a Software Engeneer 
-- 📫 How to reach me https://www.linkedin.com/in/dianabekibaeva/
+- 👀 Front-end developer (HTML, CSS, JavaScript, React)
+- ❤️ Love coffee, zumba, travels and adventures &  gym enthusiast
+- 📫 How to reach me https://www.linkedin.com/in/dianabekibaeva/ or https://www.instagram.com/diflorens/
 
 <!---
 Diflorens/Diflorens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
