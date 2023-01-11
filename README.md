@@ -2,8 +2,6 @@
 <h1 align="center">Hi, 😎 I'm Diana Bekibaeva</h1>
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif">
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif" alt="gifdiana" /> </p>
-
 - 👀 Ask me about HTML, CSS, JavaScript, React
 - ❤️ Love coffee, zumba, travels and adventures &  gym enthusiast
 - 📫 How to reach me https://www.linkedin.com/in/dianabekibaeva/ or https://www.instagram.com/diflorens/ or diana.bekibai@gmail.com
