@@ -24,7 +24,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiletzhusupov&show_icons=true&locale=en&layout=compact" alt="adiletzhusupov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adiletzhusupov&show_icons=true&locale=en" alt="adiletzhusupov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diflorens&show_icons=true&locale=en" alt="diflorens" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diflorens&" alt="diflorens" /></p>
 
 <!---
 Diflorens/Diflorens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
