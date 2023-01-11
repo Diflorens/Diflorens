@@ -1,6 +1,6 @@
 ![1*ZdK7PBZTtpu_7zPAiXEKzg](https://user-images.githubusercontent.com/106848567/211708310-9ee75774-28a6-4802-9fde-242a802bd0a4.jpeg)
 <h1 align="center">Hi, 😎 I'm Diana Bekibaeva</h1>
-<img align="right" alt="Coding" width="400" src="![gabi-d](https://user-images.githubusercontent.com/106848567/211709650-eb9ee17b-1fe4-46fb-8315-4d7180c02c29.gif)">
+<img align="right" alt="Coding" width="400" src="![gabi-d](https://user-images.githubusercontent.com/106848567/211709803-40040f0e-9e23-45de-83d1-1a07b3d8af62.gif)">
 
 <p align="left"> <![gabi-d](https://user-images.githubusercontent.com/106848567/211709275-d4323d12-1706-46c6-81b7-cdf3d9309d39.gif) /> </p>
 
