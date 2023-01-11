@@ -1,4 +1,4 @@
-![Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1](https://user-images.githubusercontent.com/106848567/211702969-5a3a0ec4-aa4a-4f4a-8335-1793d76185bd.jpeg)
+![software-developer_0](https://user-images.githubusercontent.com/106848567/211707697-25d214f8-5969-4ac8-8766-8a36ead48f86.jpeg)
 <h1 align="center">Hi 👋, I'm Diana Bekibaeva</h1>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
