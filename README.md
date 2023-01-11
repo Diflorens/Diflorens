@@ -3,7 +3,7 @@
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 
 - 👀 Ask me about HTML, CSS, JavaScript, React
-- ❤️ Love coffee, zumba, travels and adventures &  gym enthusiast
+- ❤️ Love coffee, zumba, travels, adventures &  gym enthusiast
 - 📫 How to reach me https://www.linkedin.com/in/dianabekibaeva/ or diana.bekibai@gmail.com
 
 ## Connect with me:
