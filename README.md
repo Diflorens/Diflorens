@@ -1,5 +1,5 @@
-![software-developer_0](https://user-images.githubusercontent.com/106848567/211707697-25d214f8-5969-4ac8-8766-8a36ead48f86.jpeg)
-<h1 align="center">Hi 👋, I'm Diana Bekibaeva</h1>
+![1*ZdK7PBZTtpu_7zPAiXEKzg](https://user-images.githubusercontent.com/106848567/211708310-9ee75774-28a6-4802-9fde-242a802bd0a4.jpeg)
+<h1 align="center">Hi 😎, I'm Diana Bekibaeva</h1>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiletzhusupov&label=Profile%20views&color=0e75b6&style=flat" alt="adiletzhusupov" /> </p>
