@@ -1,5 +1,5 @@
 ![MasterHead](https://ik.imagekit.io/upgrad1/marketing-platform-assets/new-images%2Fprogram-backgrounds%2Funiversity/frontend_banner__1601275316125.png)
-<h1 align="center">Hi 👋, I'm Adilet Zhusupov</h1>
+<h1 align="center">Hi 👋, I'm Diana Bekibaeva</h1>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiletzhusupov&label=Profile%20views&color=0e75b6&style=flat" alt="adiletzhusupov" /> </p>
