@@ -1,8 +1,8 @@
 ![1*ZdK7PBZTtpu_7zPAiXEKzg](https://user-images.githubusercontent.com/106848567/211708310-9ee75774-28a6-4802-9fde-242a802bd0a4.jpeg)
 <h1 align="center">Hi, 😎 I'm Diana Bekibaeva</h1>
-<img align="right" alt="Coding" width="400" src="[![gabi-d](https://user-images.githubusercontent.com/106848567/211709803-40040f0e-9e23-45de-83d1-1a07b3d8af62.gif)](https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif)">
+<img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif">
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif" alt="adiletzhusupov" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif" alt="gifdiana" /> </p>
 
 - 👀 Ask me about HTML, CSS, JavaScript, React
 - ❤️ Love coffee, zumba, travels and adventures &  gym enthusiast
