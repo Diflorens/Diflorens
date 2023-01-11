@@ -4,13 +4,13 @@
 
 - 👀 Ask me about HTML, CSS, JavaScript, React
 - ❤️ Love coffee, zumba, travels and adventures &  gym enthusiast
-- 📫 How to reach me https://www.linkedin.com/in/dianabekibaeva/ or https://www.instagram.com/diflorens/ or diana.bekibai@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/dianabekibaeva/ or diana.bekibai@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.com/adiletzhusupov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="adiletzhusupov" height="30" width="40" /></a>
-<a href="https://replit.com/@AdiletZhusupov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="adiletzhusupov" height="30" width="40" /></a>
-<a href="https://codepen.io/adiletzhusupov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adiletzhusupov" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/Diflorens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="diflorens" height="30" width="40" /></a>
+<a href="https://replit.com/@Diflorens" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="diflorens" height="30" width="40" /></a>
+<a href="https://codepen.io/diflorens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="diflorens" height="30" width="40" /></a>
 </p>
 
 
