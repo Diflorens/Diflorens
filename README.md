@@ -2,7 +2,7 @@
 <h1 align="center">Hi, 😎 I'm Diana Bekibaeva</h1>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<p align="left"> <![gabi-d](https://user-images.githubusercontent.com/106848567/211709275-d4323d12-1706-46c6-81b7-cdf3d9309d39.gif)" /> </p>
+<p align="left"> <![gabi-d](https://user-images.githubusercontent.com/106848567/211709275-d4323d12-1706-46c6-81b7-cdf3d9309d39.gif) /> </p>
 
 - 👀 Ask me about HTML, CSS, JavaScript, React
 - ❤️ Love coffee, zumba, travels and adventures &  gym enthusiast
