@@ -1,7 +1,8 @@
 ![Software-Deployment-scaled](https://user-images.githubusercontent.com/106848567/211715198-d289db01-d404-40a1-b3f1-a0d41cf6057b.jpeg)
 <h1 align="center">Hi, 😎 I'm Diana Bekibaeva</h1>
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
-
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning React.js | Material-UI
 - 💬 Ask me about HTML, CSS, JavaScript, React
 - ❤️ Love coffee, zumba, travels, adventures &  gym enthusiast
 - 📫 How to reach me https://www.linkedin.com/in/dianabekibaeva/ or diana.bekibai@gmail.com
