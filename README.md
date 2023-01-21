@@ -6,13 +6,18 @@
 - 🌱 I’m currently learning React.js | Material-UI
 - 💬 Ask me about HTML, CSS, JavaScript, React
 - ❤️ Love coffee, zumba, travels, adventures &  gym enthusiast
-- 📫 How to reach me https://www.linkedin.com/in/dianabekibaeva/ or diana.bekibai@gmail.com
+- 📫 How to reach me diana.bekibai@gmail.com
 
 ## Connect with me:
 <p align="left">
 <a href="https://codesandbox.io/u/Diflorens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="diflorens" height="30" width="40" /></a>
 <a href="https://replit.com/@Diflorens" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="diflorens" height="30" width="40" /></a>
 <a href="https://codepen.io/diflorens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="diflorens" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dianabekibaeva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diana" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21057605/diana-bekibaeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="diana" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100066629387332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diflorens" height="30" width="40" /></a>
+<a href="https://www.instagram.com/diflorens/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diflorens" height="30" width="40" /></a>
+<a href="https://leetcode.com/Diflorens/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diflorens" height="30" width="40" /></a>
 </p>
 
 
