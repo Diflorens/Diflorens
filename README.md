@@ -3,8 +3,7 @@
 <h3 align="center">A passionate Front-end developer</h3>
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning React.js | Material-UI
+- 🌱 I’m currently learning React.js & TypeScript
 - 💬 Ask me about HTML, CSS, JavaScript, React
 - ❤️ Love coffee, zumba, travels, adventures &  gym enthusiast
 - 📫 How to reach me diana.bekibai@gmail.com
