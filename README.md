@@ -1,6 +1,8 @@
 ![Software-Deployment-scaled](https://user-images.githubusercontent.com/106848567/211715198-d289db01-d404-40a1-b3f1-a0d41cf6057b.jpeg)
 <h1 align="center">Hi, 😎 I'm Diana Bekibaeva</h1>
-<h3 align="center">Front-End Developer | Expertise in JavaScript, React.js, Redux, and HTML/CSS | Passionate about Creating User-Friendly Interfaces That Bring Ideas to Life</h3>
+<h3 align="center">Front-End Developer | Expertise in JavaScript, React.js, Redux, and HTML/CSS
+  <br>
+  Passionate about Creating User-Friendly Interfaces That Bring Ideas to Life</h3>
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 
 - 🌱 I’m currently learning React.js & TypeScript
